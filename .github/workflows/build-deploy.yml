@@ -3,7 +3,7 @@ on:
   push:
   create:
 
-jobs:
+jobs:Device::BuiltinAction StartFastboot(Device* device, const std::vector<std::string>& args);
   build:
     runs-on: ubuntu-latest
 
