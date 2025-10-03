@@ -84,3 +84,5 @@ Submit the [issues](https://github.com/openhoangnc/vscode-io-run/issues) if you 
 
 ## Contribution
 Fork the [repo](https://github.com/openhoangnc/vscode-io-run) and submit pull requests.
+
+VSCode extension for running and testing Competitive Programming solutions
